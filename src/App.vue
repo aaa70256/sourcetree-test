@@ -1,7 +1,7 @@
 <template>
 	<div id="app">
 		<img alt="Vue logo" src="./assets/logo.png" />
-		SOURCETREE tEST 1
+		SOURCETREE tEST 1 develop commit
 	</div>
 </template>
 
